@@ -7,11 +7,13 @@ Responsive Interface: The app uses a responsive Ul to present news cards with  t
 News Navigation: Predefined categories like "India", "Technology", and others allow quick browsing of relevant news.
 
 HOW TO USE
+
           1. Search for News: You can enter a query in the search bar and click the search button to get results for that query.
           2. Explore Categories: You can also explore predefined categories by clicking on the navigation items (e.g., "Business", "Sports", etc.).
           3. Click to Read: Clicking on any news card will open the full article in a new tab.
 
 Technologies Used 
+
                   HTML/CSS: For structuring and styling the web application.
                   JavaScript: For fetching news using the  NewsAPI and rende. y the articles.
                   NewsAPI: External API to fetch the latest news articles.
