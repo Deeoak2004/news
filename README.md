@@ -1,4 +1,5 @@
 News Fetcher Application
+
 This is a simple and dynamic news-fetching web application that pulls the latest news articles from the NewsAPI based on different search queries. It displays the articles with relevant details such as the title, description, source, and publication date.
 FEATURES
 Search News: Users can search for news articles based on keywords or topics such as "Business", "Sports", "Technology", etc.
